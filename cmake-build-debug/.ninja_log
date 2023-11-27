@@ -1,0 +1,7 @@
+# ninja log v5
+6	234	1700754862726963629	CMakeFiles/thread_pool.dir/main.cpp.o	337e1c2cb221444
+234	262	1700754862756537398	thread_pool	26ed791e2a62c1f4
+5	227	1700754852070203610	CMakeFiles/thread_pool.dir/threadpool.cpp.o	85f3a88701099897
+5	265	1701095205302530975	CMakeFiles/thread_pool.dir/main.cpp.o	337e1c2cb221444
+5	267	1701095205304505567	CMakeFiles/thread_pool.dir/ptr_fun.cpp.o	2798ac44e83b147b
+267	297	1701095205336647005	thread_pool	f5e4899f9996b477
